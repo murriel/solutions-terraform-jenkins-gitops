@@ -16,3 +16,4 @@ credentials.json
 #mac
 .DS_Store
 **/terraform.tfvars
+vars.env
